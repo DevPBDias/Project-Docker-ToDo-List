@@ -3,4 +3,4 @@ EXPOSE 3000
 WORKDIR /app
 ADD node_modules.tar.gz .
 COPY . .
-CMD ["npm" "start"]
+ENTRYPOINT ["npm", "start"]
