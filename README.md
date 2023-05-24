@@ -1,16 +1,15 @@
 # 🚧 README em construção 🚧
 
-<!-- Olá, Tryber!
+- Projeto do módulo de back-end da Trybe.
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+- Objetivo do projeto: Conteinerizar aplicações, criar uma conexão entre o back e front-end e orquestrar seu funcionamento.
 
-É essencial que você preencha esse documento por conta própria, ok?
+- A aplicação ja possui um back e um front-end mas precisa ser conteinerizada para funcionar. Então foi desenvolvido os arquivos de configuração para cada frente específica: Front-end, Back-end e um aplicativo de teste que valida se as aplicações estão se comunicando.
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+- Foi escrito uma série de comandos do docker com diferentes níveis de complexidade para criar as imagens para as aplicações e configurar essas imagens com o docker-compose.
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+## Tecnologias:
+<div>
+  <img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/>
+  <img src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white'/>
+</div>
